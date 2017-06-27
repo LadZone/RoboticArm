@@ -6,7 +6,7 @@ bibliography: RPiCitations.bib
 F.I.M.P. Project
 ================
 
-Project’s website: https://github.com/hennok129/RoboticArm
+Project’s website: https://github.com/LadZone/RoboticArm
 
 From: Hennok Tadesse, Alay Lad, and Tanav Sharma
 
